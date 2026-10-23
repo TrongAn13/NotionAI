@@ -1,0 +1,6 @@
+{
+  "upgrade_version": "1.0.0",
+  "templates": ["finance", "student", "creator", "habits", "freelancer"],
+  "policy": "Add missing compatible properties and one owned guide; preserve all existing records.",
+  "note": "Template schemas and content are defined in app/templates. This JSON-compatible YAML file documents the catalog; it is not executable configuration."
+}

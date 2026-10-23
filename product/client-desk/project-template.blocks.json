@@ -1,0 +1,1226 @@
+[
+  {
+    "object": "block",
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "DESIGN / WEB PROJECT STUDIO"
+          },
+          "annotations": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "\nOne brief. One agreed scope. A clear handoff."
+          }
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "📐"
+      },
+      "color": "blue_background"
+    }
+  },
+  {
+    "object": "block",
+    "type": "toggle",
+    "toggle": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "01  /  Discovery brief"
+          }
+        }
+      ],
+      "children": [
+        {
+          "object": "block",
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Complete this with the client before proposing a solution. Replace bracketed prompts; no sample commitments are agreed by default."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "type": "table",
+          "table": {
+            "table_width": 2,
+            "has_column_header": true,
+            "has_row_header": false,
+            "children": [
+              {
+                "object": "block",
+                "type": "table_row",
+                "table_row": {
+                  "cells": [
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Decision"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Your project"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "object": "block",
+                "type": "table_row",
+                "table_row": {
+                  "cells": [
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Business outcome"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "[What must improve, and why now?]"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "object": "block",
+                "type": "table_row",
+                "table_row": {
+                  "cells": [
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Primary audience"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "[Who is using this, and what action should they take?]"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "object": "block",
+                "type": "table_row",
+                "table_row": {
+                  "cells": [
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Success measure"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "[A measurable outcome and review date]"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "object": "block",
+                "type": "table_row",
+                "table_row": {
+                  "cells": [
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Approver"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "[One person who consolidates feedback and signs off]"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "object": "block",
+                "type": "table_row",
+                "table_row": {
+                  "cells": [
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Deliverables"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "[Pages, screens, identity assets, formats and quantities]"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "object": "block",
+                "type": "table_row",
+                "table_row": {
+                  "cells": [
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Content & assets"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "[Who provides copy, photography, logos and access; due dates]"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "object": "block",
+                "type": "table_row",
+                "table_row": {
+                  "cells": [
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Platform & constraints"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "[CMS, hosting, integrations, devices and accessibility needs]"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "object": "block",
+                "type": "table_row",
+                "table_row": {
+                  "cells": [
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Dependencies"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "[Third-party availability, client feedback and launch constraints]"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "type": "to_do",
+          "to_do": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Record Target Outcome, Success Measure and Approval Contact in the project properties."
+                }
+              }
+            ],
+            "checked": false
+          }
+        },
+        {
+          "object": "block",
+          "type": "to_do",
+          "to_do": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Confirm the content deadline and Client Assets Ready before scheduling production."
+                }
+              }
+            ],
+            "checked": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "type": "toggle",
+    "toggle": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "02  /  Proposal & scope builder"
+          }
+        }
+      ],
+      "children": [
+        {
+          "object": "block",
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Proposal for [client] · [project] · prepared [date]"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "type": "quote",
+          "quote": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "We will create [deliverables] for [audience] to support [business outcome]. We will assess success using [measure]."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "type": "table",
+          "table": {
+            "table_width": 3,
+            "has_column_header": true,
+            "has_row_header": false,
+            "children": [
+              {
+                "object": "block",
+                "type": "table_row",
+                "table_row": {
+                  "cells": [
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Deliverable"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Quantity / format"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Acceptance check"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "object": "block",
+                "type": "table_row",
+                "table_row": {
+                  "cells": [
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "[Website / identity / landing page]"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "[Exact pages, screens or assets]"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "[Observable completion condition]"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "object": "block",
+                "type": "table_row",
+                "table_row": {
+                  "cells": [
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "[Responsive variations]"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "[Agreed devices / breakpoints]"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "[Reviewed and approved by named approver]"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "object": "block",
+                "type": "table_row",
+                "table_row": {
+                  "cells": [
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "[Handoff / training]"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "[File formats, documentation and session]"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "[Client can access and use the delivered assets]"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "type": "table",
+          "table": {
+            "table_width": 2,
+            "has_column_header": true,
+            "has_row_header": false,
+            "children": [
+              {
+                "object": "block",
+                "type": "table_row",
+                "table_row": {
+                  "cells": [
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Boundary"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Agreement to complete"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "object": "block",
+                "type": "table_row",
+                "table_row": {
+                  "cells": [
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Included"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "[List what the fee covers; specify revision rounds]"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "object": "block",
+                "type": "table_row",
+                "table_row": {
+                  "cells": [
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Excluded"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "[Copywriting, photography, extra pages, hosting, integrations or other exclusions]"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "object": "block",
+                "type": "table_row",
+                "table_row": {
+                  "cells": [
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Milestones"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "[Discovery → first direction → review → handoff, with dates and owners]"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "object": "block",
+                "type": "table_row",
+                "table_row": {
+                  "cells": [
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Fee & payment schedule"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "[Fee, currency and milestone payments; enter invoices separately]"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "object": "block",
+                "type": "table_row",
+                "table_row": {
+                  "cells": [
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Feedback"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "[One consolidated response from the approver within an agreed window]"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "object": "block",
+                "type": "table_row",
+                "table_row": {
+                  "cells": [
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Changes"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "[Estimate extra work and record approval before changing fee or delivery dates]"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "type": "to_do",
+          "to_do": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Confirm the proposal with the client; then check Scope Agreed and set Included Revisions."
+                }
+              }
+            ],
+            "checked": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "type": "toggle",
+    "toggle": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "03  /  Scope Guard — request to decision"
+          }
+        }
+      ],
+      "children": [
+        {
+          "object": "block",
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Open Change desk → Capture request. Set Work Type = Change request and link this project."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Describe the requested outcome, what differs from scope, and the deliverable affected. Estimate Extra Fee, Extra Hours and Deadline Impact Days; check Estimate Reviewed, including when the estimate is zero."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Send the change summary manually. Record Decision and an Approval Evidence URL to the client's written confirmation. Decision On records when it was agreed."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Approved Extra Fee/Hours count only when Decision = Approved, Estimate Reviewed is checked and evidence is recorded. Approval records your decision trail; it is not a signature workflow."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "For approved work, create a separate Delivery task and adjust the actual deadline/invoice yourself. The request row stays as the decision history."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "type": "quote",
+          "quote": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Thanks for the request to [change]. It adds [deliverable] beyond [agreed scope]. The additional fee is [amount and currency], estimated effort [hours], and proposed schedule impact [days / revised date]. Please confirm the revised scope, fee and date in writing before we schedule it."
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "type": "toggle",
+    "toggle": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "04  /  Design & launch quality gate"
+          }
+        }
+      ],
+      "children": [
+        {
+          "object": "block",
+          "type": "to_do",
+          "to_do": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Confirm all agreed pages/assets are present and the final copy is approved."
+                }
+              }
+            ],
+            "checked": false
+          }
+        },
+        {
+          "object": "block",
+          "type": "to_do",
+          "to_do": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Review desktop, tablet and phone layouts on real devices."
+                }
+              }
+            ],
+            "checked": false
+          }
+        },
+        {
+          "object": "block",
+          "type": "to_do",
+          "to_do": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Test links, navigation, forms and the destination of submitted messages."
+                }
+              }
+            ],
+            "checked": false
+          }
+        },
+        {
+          "object": "block",
+          "type": "to_do",
+          "to_do": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Check keyboard navigation, visible focus, labels, contrast and image descriptions."
+                }
+              }
+            ],
+            "checked": false
+          }
+        },
+        {
+          "object": "block",
+          "type": "to_do",
+          "to_do": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Check image sizes, page loading, favicon and sharing previews."
+                }
+              }
+            ],
+            "checked": false
+          }
+        },
+        {
+          "object": "block",
+          "type": "to_do",
+          "to_do": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Confirm the agreed domains, redirects, integrations and tracking choices."
+                }
+              }
+            ],
+            "checked": false
+          }
+        },
+        {
+          "object": "block",
+          "type": "to_do",
+          "to_do": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Resolve review comments or record the agreed exceptions."
+                }
+              }
+            ],
+            "checked": false
+          }
+        },
+        {
+          "object": "block",
+          "type": "to_do",
+          "to_do": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Capture the approver's acceptance before marking Handoff Accepted."
+                }
+              }
+            ],
+            "checked": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "type": "toggle",
+    "toggle": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "05  /  Handoff pack & client email"
+          }
+        }
+      ],
+      "children": [
+        {
+          "object": "block",
+          "type": "table",
+          "table": {
+            "table_width": 2,
+            "has_column_header": true,
+            "has_row_header": false,
+            "children": [
+              {
+                "object": "block",
+                "type": "table_row",
+                "table_row": {
+                  "cells": [
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Asset"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Location / owner"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "object": "block",
+                "type": "table_row",
+                "table_row": {
+                  "cells": [
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Final deliverables"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "[Final file / site links and version]"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "object": "block",
+                "type": "table_row",
+                "table_row": {
+                  "cells": [
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Editable source files"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "[Design/source links and ownership handoff]"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "object": "block",
+                "type": "table_row",
+                "table_row": {
+                  "cells": [
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Usage guide & training"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "[Documentation and recording links]"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "object": "block",
+                "type": "table_row",
+                "table_row": {
+                  "cells": [
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Access transfer"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "[Use a secure password manager; do not store passwords here]"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "object": "block",
+                "type": "table_row",
+                "table_row": {
+                  "cells": [
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Post-launch support"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "[Included support window, contact method and exclusions]"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "object": "block",
+                "type": "table_row",
+                "table_row": {
+                  "cells": [
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Remaining work"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "[Known limitations, owner and due date]"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "type": "quote",
+          "quote": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Hi [name], your [project] is ready for handoff. Final deliverables: [link]. Editable sources: [link]. Getting-started guide: [link]. Please review against our agreed acceptance checks and send one consolidated response by [date]. Included support: [scope/window]. Remaining invoice: [reference, amount/currency, due date]. Thank you for collaborating on this project."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "type": "to_do",
+          "to_do": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Check the Money desk for actual remaining invoice balances; do not assume handoff means payment is received."
+                }
+              }
+            ],
+            "checked": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "type": "toggle",
+    "toggle": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "06  /  Project debrief"
+          }
+        }
+      ],
+      "children": [
+        {
+          "object": "block",
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "What helped the client reach the intended outcome? [Evidence / result]"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Where did scope, time or feedback differ from the plan? [One cause]"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "What will change in the next proposal? [One specific action]"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "object": "block",
+          "type": "quote",
+          "quote": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Hi [name], now that [project] is in use, what has improved for you? If you are happy to share a short testimonial, which result and part of the collaboration would you mention? Please confirm how you would like your name/company attributed."
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+]

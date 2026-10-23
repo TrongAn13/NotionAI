@@ -1,0 +1,35 @@
+{
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "key": "finance",
+      "prompt": "Use case: ads-marketing. Create an original premium wide Notion cover photograph, 3:1 panoramic landscape. Theme Clarity Money: sophisticated sage green and warm ivory editorial still life, sculptural travertine ascending steps, small brushed brass coins, translucent green glass arch, a linen notebook with no writing, soft olive branch shadow, beautiful tactile materials, warm lateral daylight, refined expensive art direction. Keep all main objects inside central horizontal 45% height for Notion cover cropping, balanced panoramic composition, small cluster of subjects to right with calm paper texture to left. No text, no letters, no charts, no currency symbols, no logos, no watermarks. This is a final photographic cover asset, not a screenshot or UI mockup.",
+      "source": "C:\\Users\\anht2\\.codex\\generated_images\\01a166cf-608f-7552-8c9b-fccc6bc665c3\\exec-37d60692-eafc-4dcc-b60d-b80c85d3497f.png",
+      "final_path": "C:\\Users\\anht2\\Downloads\\Notion_Auto_Builder_Windows\\notion_builder_bundle\\assets\\banners\\finance-v2.png"
+    },
+    {
+      "key": "student",
+      "prompt": "Use case: ads-marketing. Create an original premium 3:1 panoramic landscape cover photograph for Semester Studio student planner. Beautiful contemporary study atelier, lavender and periwinkle with warm ivory, sculptural stacked books with entirely blank spines, a folded cream notebook, translucent lilac glass sphere, ceramic pencil cup with pencils, pale lilac architectural arch, late morning sunlight and botanical shadows. Aspirational creative academic atmosphere with sophisticated tactile editorial product photography, visually striking yet calm. Keep main subjects in central 45% vertical band for Notion cover cropping, panoramic spatial composition. No words, letters, numbers, logos, people or watermark. Final raster banner, not UI.",
+      "source": "C:\\Users\\anht2\\.codex\\generated_images\\01a166cf-608f-7552-8c9b-fccc6bc665c3\\exec-ae0f1ab0-d238-47c6-b269-1792bb783365.png",
+      "final_path": "C:\\Users\\anht2\\Downloads\\Notion_Auto_Builder_Windows\\notion_builder_bundle\\assets\\banners\\student-v2.png"
+    },
+    {
+      "key": "creator",
+      "prompt": "Use case: ads-marketing. Create an original premium 3:1 panoramic cinematic landscape cover for Channel Studio video creator operating system. Sculptural creative production still life: rich terracotta and burnt orange background, charcoal camera lens and small unbranded cinema camera silhouette, translucent amber glass frame, film ribbon elegantly curving through composition, warm spotlight with deep soft shadows, tactile clay and brushed aluminum, sophisticated modern editorial photography. Keep important subject detail inside central 45% vertical band to survive narrow Notion cover cropping, expansive panoramic composition with visual depth, no text no letters no numbers no logos no watermark, not a UI screenshot.",
+      "source": "C:\\Users\\anht2\\.codex\\generated_images\\01a166cf-608f-7552-8c9b-fccc6bc665c3\\exec-d448cdcf-077e-415d-8846-b2db9019cea7.png",
+      "final_path": "C:\\Users\\anht2\\Downloads\\Notion_Auto_Builder_Windows\\notion_builder_bundle\\assets\\banners\\creator-v2.png"
+    },
+    {
+      "key": "habits",
+      "prompt": "Use case: ads-marketing. Create an original premium 3:1 panoramic landscape photographic cover for Momentum habit and productivity system. A captivating calm sunrise still life with honey amber, soft cream and warm sand: smooth sculptural stepping stones curve gently from left toward a luminous frosted glass sun disk on right, tiny delicate sprout in ceramic vessel, rippled sand, reassuring optimistic natural golden light and long shadows. High-end editorial product photography with beautiful realistic stone, glass and paper textures, spare refined composition. Keep main subjects inside central 45% vertical height for cropped Notion cover, no writing no numbers no branding no icons no logos no watermark. Not a screen mockup.",
+      "source": "C:\\Users\\anht2\\.codex\\generated_images\\01a166cf-608f-7552-8c9b-fccc6bc665c3\\exec-5cf47e16-a2ce-4956-857f-4522ae8c70e2.png",
+      "final_path": "C:\\Users\\anht2\\Downloads\\Notion_Auto_Builder_Windows\\notion_builder_bundle\\assets\\banners\\habits-v2.png"
+    },
+    {
+      "key": "freelancer",
+      "prompt": "Use case: ads-marketing. Create an original premium 3:1 panoramic landscape photographic banner for Client Desk creative freelancer business workspace. Refined independent design studio still life in slate blue, deep navy and warm ivory: blank folded presentation boards, rolled unprinted paper, sculptural blue glass arch, a metallic binder clip, cream ceramic espresso cup, subtle architectural grid shadows and a small green leaf. Contemporary editorial magazine art direction, luxurious tactile materials, natural window light and soft long shadows, balanced panoramic composition with strong visual depth. Main subjects kept in central 45% vertical band for Notion cover crop. No text no letters no numbers no logos no watermark, not a UI screenshot.",
+      "source": "C:\\Users\\anht2\\.codex\\generated_images\\01a166cf-608f-7552-8c9b-fccc6bc665c3\\exec-d7e895f2-5862-4f35-9c44-5d8b11a69616.png",
+      "final_path": "C:\\Users\\anht2\\Downloads\\Notion_Auto_Builder_Windows\\notion_builder_bundle\\assets\\banners\\freelancer-v2.png"
+    }
+  ]
+}
